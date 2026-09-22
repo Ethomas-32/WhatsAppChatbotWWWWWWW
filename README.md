@@ -167,7 +167,7 @@ Twilio needs a public URL to reach your local machine.
 ## Step 8: Connect Twilio's WhatsApp Sandbox
 
 1. Go back to the Twilio Console's WhatsApp Sandbox page:
-   **https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn**
+   **[https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn](https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn?frameUrl=%2Fconsole%2Fsms%2Fwhatsapp%2Flearn%3Fx-target-region%3Dus1)**
 2. Scroll to the **Sandbox Configuration** / webhook section
 3. Find the field **"When a message comes in"**
 4. Paste your ngrok URL with `/webhook` at the end:

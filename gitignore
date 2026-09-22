@@ -1,0 +1,14 @@
+# Environment variables (contains API keys — never commit this)
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated vector store (rebuild with `python ingest.py`)
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
